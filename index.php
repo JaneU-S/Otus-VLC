@@ -13,7 +13,7 @@ if (\Bitrix\Main\Loader::includeModule("intranet"))
 
 	if ($firstPageLink)
 	{
-		LocalRedirect($firstPageLink);
+		LocalRedirect($firstPageLink."/");
 	}
 }
 
