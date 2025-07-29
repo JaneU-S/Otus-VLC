@@ -1,0 +1,2970 @@
+OTUS - 2025-07-08 23:38:16 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [DivisionByZeroError] 
+OTUS - Division by zero (0)
+OTUS - /var/www/html/bx-site/otus/debug.php:7
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-08 23:39:39 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [DivisionByZeroError] 
+OTUS - Division by zero (0)
+OTUS - /var/www/html/bx-site/otus/debug.php:7
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-25 10:53:30 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function get() on null (0)
+OTUS - /var/www/html/bx-site/cars/index.php:49
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-25 10:54:37 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function get() on null (0)
+OTUS - /var/www/html/bx-site/cars/index.php:49
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-25 11:02:59 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function get() on null (0)
+OTUS - /var/www/html/bx-site/cars/index.php:49
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-25 11:06:50 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function get() on null (0)
+OTUS - /var/www/html/bx-site/cars/index.php:49
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 03:07:58 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Iblock\Elements\ElementCarTable" not found (0)
+OTUS - /var/www/html/bx-site/cars/index.php:73
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 03:24:13 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Iblock\Elements\ElementcarTable" not found (0)
+OTUS - /var/www/html/bx-site/cars/index.php:121
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 03:30:32 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Iblock\Elements\ElementcarTable" not found (0)
+OTUS - /var/www/html/bx-site/cars/index.php:127
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 06:35:48 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `MANUFACTURER_ID` (MANUFACTURER_ID) for \Models\Lists\CarsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 06:37:04 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `MANUFACTURER_ID` (MANUFACTURER_ID) for \Models\Lists\CarsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 06:44:30 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 06:48:38 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 06:50:20 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (COUNTRY) for \Models\Lists\CarsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1892
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToOrderChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2495
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 06:53:57 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 07:04:26 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 07:05:59 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 07:06:27 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+OTUS - Mysql query error: (1146) Table 'bx24.b_iblock_element_prop_s22' doesn't exist (400)
+OTUS - SELECT 
+OTUS - 	`models_lists_cars_property_values`.`IBLOCK_ELEMENT_ID` AS `IBLOCK_ELEMENT_ID`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_86` AS `MANUFACTURER_ID`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_87` AS `MODEL`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_88` AS `ENGINE_VALUE`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_89` AS `DATE_OUT`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_90` AS `CITY_ID`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_91` AS `CLIENTS`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_92` AS `COLORS`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_93` AS `DEAL`,
+OTUS - 	`models_lists_cars_property_values_element`.`NAME` AS `NAME`,
+OTUS - 	`models_lists_cars_property_values_manufacturer_element`.`NAME` AS `MANUFACTURER_NAME`,
+OTUS - 	`models_lists_cars_property_values_city_element`.`NAME` AS `CITY_NAME`,
+OTUS - 	`models_lists_cars_property_values_manufacturer`.`PROPERTY_112` AS `COUNTRY`,
+OTUS - 	`models_lists_cars_property_values_manufacturer`.`IBLOCK_ELEMENT_ID` AS `UALIAS_0`,
+OTUS - 	`models_lists_cars_property_values_element`.`ID` AS `UALIAS_1`,
+OTUS - 	`models_lists_cars_property_values_manufacturer_element`.`ID` AS `UALIAS_2`,
+OTUS - 	`models_lists_cars_property_values_city`.`IBLOCK_ELEMENT_ID` AS `UALIAS_3`,
+OTUS - 	`models_lists_cars_property_values_city_element`.`ID` AS `UALIAS_4`
+OTUS - FROM `b_iblock_element_prop_s20` `models_lists_cars_property_values` 
+OTUS - LEFT JOIN `b_iblock_element_prop_s22` `models_lists_cars_property_values_manufacturer` ON `models_lists_cars_property_values`.`PROPERTY_86` = `models_lists_cars_property_values_manufacturer`.`IBLOCK_ELEMENT_ID`
+OTUS - LEFT JOIN `b_iblock_element` `models_lists_cars_property_values_element` ON `models_lists_cars_property_values`.`IBLOCK_ELEMENT_ID` = `models_lists_cars_property_values_element`.`ID`
+OTUS - LEFT JOIN `b_iblock_element` `models_lists_cars_property_values_manufacturer_element` ON `models_lists_cars_property_values_manufacturer`.`IBLOCK_ELEMENT_ID` = `models_lists_cars_property_values_manufacturer_element`.`ID`
+OTUS - LEFT JOIN `b_iblock_element_prop_s21` `models_lists_cars_property_values_city` ON `models_lists_cars_property_values`.`PROPERTY_90` = `models_lists_cars_property_values_city`.`IBLOCK_ELEMENT_ID`
+OTUS - LEFT JOIN `b_iblock_element` `models_lists_cars_property_values_city_element` ON `models_lists_cars_property_values_city`.`IBLOCK_ELEMENT_ID` = `models_lists_cars_property_values_city_element`.`ID`
+OTUS - ORDER BY `COUNTRY` DESC
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+OTUS - #0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/db/mysqliconnection.php:149
+OTUS - #1: Bitrix\Main\DB\MysqliConnection->queryInternal
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/db/connection.php:324
+OTUS - #2: Bitrix\Main\DB\Connection->query
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3601
+OTUS - #3: Bitrix\Main\ORM\Query\Query->query
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:972
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 07:07:08 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+OTUS - Mysql query error: (1146) Table 'bx24.b_iblock_element_prop_s22' doesn't exist (400)
+OTUS - SELECT 
+OTUS - 	`models_lists_cars_property_values`.`IBLOCK_ELEMENT_ID` AS `IBLOCK_ELEMENT_ID`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_86` AS `MANUFACTURER_ID`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_87` AS `MODEL`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_88` AS `ENGINE_VALUE`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_89` AS `DATE_OUT`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_90` AS `CITY_ID`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_91` AS `CLIENTS`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_92` AS `COLORS`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_93` AS `DEAL`,
+OTUS - 	`models_lists_cars_property_values_element`.`NAME` AS `NAME`,
+OTUS - 	`models_lists_cars_property_values_manufacturer_element`.`NAME` AS `MANUFACTURER_NAME`,
+OTUS - 	`models_lists_cars_property_values_city_element`.`NAME` AS `CITY_NAME`,
+OTUS - 	`models_lists_cars_property_values_manufacturer`.`PROPERTY_112` AS `COUNTRY`,
+OTUS - 	`models_lists_cars_property_values_manufacturer`.`IBLOCK_ELEMENT_ID` AS `UALIAS_0`,
+OTUS - 	`models_lists_cars_property_values_element`.`ID` AS `UALIAS_1`,
+OTUS - 	`models_lists_cars_property_values_manufacturer_element`.`ID` AS `UALIAS_2`,
+OTUS - 	`models_lists_cars_property_values_city`.`IBLOCK_ELEMENT_ID` AS `UALIAS_3`,
+OTUS - 	`models_lists_cars_property_values_city_element`.`ID` AS `UALIAS_4`
+OTUS - FROM `b_iblock_element_prop_s20` `models_lists_cars_property_values` 
+OTUS - LEFT JOIN `b_iblock_element_prop_s22` `models_lists_cars_property_values_manufacturer` ON `models_lists_cars_property_values`.`PROPERTY_86` = `models_lists_cars_property_values_manufacturer`.`IBLOCK_ELEMENT_ID`
+OTUS - LEFT JOIN `b_iblock_element` `models_lists_cars_property_values_element` ON `models_lists_cars_property_values`.`IBLOCK_ELEMENT_ID` = `models_lists_cars_property_values_element`.`ID`
+OTUS - LEFT JOIN `b_iblock_element` `models_lists_cars_property_values_manufacturer_element` ON `models_lists_cars_property_values_manufacturer`.`IBLOCK_ELEMENT_ID` = `models_lists_cars_property_values_manufacturer_element`.`ID`
+OTUS - LEFT JOIN `b_iblock_element_prop_s21` `models_lists_cars_property_values_city` ON `models_lists_cars_property_values`.`PROPERTY_90` = `models_lists_cars_property_values_city`.`IBLOCK_ELEMENT_ID`
+OTUS - LEFT JOIN `b_iblock_element` `models_lists_cars_property_values_city_element` ON `models_lists_cars_property_values_city`.`IBLOCK_ELEMENT_ID` = `models_lists_cars_property_values_city_element`.`ID`
+OTUS - ORDER BY `COUNTRY` DESC
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+OTUS - #0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/db/mysqliconnection.php:149
+OTUS - #1: Bitrix\Main\DB\MysqliConnection->queryInternal
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/db/connection.php:324
+OTUS - #2: Bitrix\Main\DB\Connection->query
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3601
+OTUS - #3: Bitrix\Main\ORM\Query\Query->query
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:972
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 07:07:11 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+OTUS - Mysql query error: (1146) Table 'bx24.b_iblock_element_prop_s22' doesn't exist (400)
+OTUS - SELECT 
+OTUS - 	`models_lists_cars_property_values`.`IBLOCK_ELEMENT_ID` AS `IBLOCK_ELEMENT_ID`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_86` AS `MANUFACTURER_ID`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_87` AS `MODEL`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_88` AS `ENGINE_VALUE`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_89` AS `DATE_OUT`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_90` AS `CITY_ID`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_91` AS `CLIENTS`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_92` AS `COLORS`,
+OTUS - 	`models_lists_cars_property_values`.`PROPERTY_93` AS `DEAL`,
+OTUS - 	`models_lists_cars_property_values_element`.`NAME` AS `NAME`,
+OTUS - 	`models_lists_cars_property_values_manufacturer_element`.`NAME` AS `MANUFACTURER_NAME`,
+OTUS - 	`models_lists_cars_property_values_city_element`.`NAME` AS `CITY_NAME`,
+OTUS - 	`models_lists_cars_property_values_manufacturer`.`PROPERTY_112` AS `COUNTRY`,
+OTUS - 	`models_lists_cars_property_values_manufacturer`.`IBLOCK_ELEMENT_ID` AS `UALIAS_0`,
+OTUS - 	`models_lists_cars_property_values_element`.`ID` AS `UALIAS_1`,
+OTUS - 	`models_lists_cars_property_values_manufacturer_element`.`ID` AS `UALIAS_2`,
+OTUS - 	`models_lists_cars_property_values_city`.`IBLOCK_ELEMENT_ID` AS `UALIAS_3`,
+OTUS - 	`models_lists_cars_property_values_city_element`.`ID` AS `UALIAS_4`
+OTUS - FROM `b_iblock_element_prop_s20` `models_lists_cars_property_values` 
+OTUS - LEFT JOIN `b_iblock_element_prop_s22` `models_lists_cars_property_values_manufacturer` ON `models_lists_cars_property_values`.`PROPERTY_86` = `models_lists_cars_property_values_manufacturer`.`IBLOCK_ELEMENT_ID`
+OTUS - LEFT JOIN `b_iblock_element` `models_lists_cars_property_values_element` ON `models_lists_cars_property_values`.`IBLOCK_ELEMENT_ID` = `models_lists_cars_property_values_element`.`ID`
+OTUS - LEFT JOIN `b_iblock_element` `models_lists_cars_property_values_manufacturer_element` ON `models_lists_cars_property_values_manufacturer`.`IBLOCK_ELEMENT_ID` = `models_lists_cars_property_values_manufacturer_element`.`ID`
+OTUS - LEFT JOIN `b_iblock_element_prop_s21` `models_lists_cars_property_values_city` ON `models_lists_cars_property_values`.`PROPERTY_90` = `models_lists_cars_property_values_city`.`IBLOCK_ELEMENT_ID`
+OTUS - LEFT JOIN `b_iblock_element` `models_lists_cars_property_values_city_element` ON `models_lists_cars_property_values_city`.`IBLOCK_ELEMENT_ID` = `models_lists_cars_property_values_city_element`.`ID`
+OTUS - ORDER BY `COUNTRY` DESC
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+OTUS - #0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/db/mysqliconnection.php:149
+OTUS - #1: Bitrix\Main\DB\MysqliConnection->queryInternal
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/db/connection.php:324
+OTUS - #2: Bitrix\Main\DB\Connection->query
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3601
+OTUS - #3: Bitrix\Main\ORM\Query\Query->query
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:972
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 08:15:20 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `PROC_IDS_MULTI` (PROC_IDS_MULTI.ELEMENT.*) for \Bitrix\Iblock\Elements\ElementDoctors Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 08:15:52 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `PROC_IDS_MULTI` (PROC_IDS_MULTI.ELEMENT.*) for \Bitrix\Iblock\Elements\ElementDoctors Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 08:17:43 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (PROC_ID_M.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty108 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 08:17:46 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (PROC_ID_M.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty108 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 08:19:19 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (PROC_ID_M.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty108 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 08:19:23 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (PROC_ID_M.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty108 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 08:21:19 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `PROC_ID_M` (PROC_ID_M.ELEMENT.*) for \Bitrix\Iblock\Elements\ElementDoctors Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 08:21:23 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `PROC_ID_M` (PROC_ID_M.ELEMENT.*) for \Bitrix\Iblock\Elements\ElementDoctors Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 08:21:37 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (PROC_IDS_MULTI.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty108 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 12:53:57 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 12:54:05 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 12:55:04 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 12:55:07 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 12:57:10 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 12:57:13 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 12:57:15 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:13:03 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:13:18 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:13:20 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:13:23 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:19:14 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:19:16 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:24:12 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function get() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:26:45 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function get() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:26:48 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function get() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:27:09 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:27:10 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:30:19 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `PROC_IDS_MULTI` (PROC_IDS_MULTI.ELEMENT.*) for \Bitrix\Iblock\Elements\ElementDoctors Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:41
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:30:54 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (PROC_ID_M.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty108 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:41
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:31:17 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (PROC_ID_M.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty108 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:41
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:36:46 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (PROC_ID_M.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty108 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:41
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:36:49 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (PROC_ID_M.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty108 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:41
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:36:50 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (PROC_ID_M.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty108 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:41
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:46:30 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:52:13 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (CITIES.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty96 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:351
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getByPrimary
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:78
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:53:42 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:54:24 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function getCities() (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:55:40 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:82
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 13:58:06 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Undefined constant "country" (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:08:53 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined method Bitrix\Main\ORM\Query\Result::fetchCollections() (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:87
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:09:07 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_ElementCountry_Collection could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:88
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:10:00 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Main\ORM\Query\Result could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:88
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:11:34 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `Test` (Test) for \Bitrix\Iblock\Elements\ElementCountry Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:351
+OTUS - #6: Bitrix\Main\ORM\Data\DataManager::getByPrimary
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:85
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:13:23 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_ElementCountry_Collection could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:88
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:14:31 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (CITIES.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty96 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:351
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getByPrimary
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:86
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:15:12 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `CITIES` (CITIES.ELEMENT.*) for \Bitrix\Iblock\Elements\ElementCities Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:351
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getByPrimary
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:86
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:17:15 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (CURRENCY.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty94 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:351
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getByPrimary
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:86
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:22:50 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (CITIES.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty96 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:351
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getByPrimary
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:86
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:40:23 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_ElementCountry_Collection could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:94
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:40:42 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getModel` for object `Bitrix\Iblock\Elements\EO_ElementCountry` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:94
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:41:24 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getValue` for object `Bitrix\Iblock\Elements\EO_IblockProperty96_Collection` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/collection.php:643
+OTUS - #0: Bitrix\Main\ORM\Objectify\Collection->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:94
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:44:25 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\ArgumentException] 
+OTUS - Unknown parameter: 0 (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:499
+OTUS - #0: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:91
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:49:10 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getValue` for object `Bitrix\Iblock\Elements\EO_IblockProperty96_Collection` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/collection.php:643
+OTUS - #0: Bitrix\Main\ORM\Objectify\Collection->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:105
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 14:49:34 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getValue` for object `Bitrix\Iblock\Elements\EO_IblockProperty96_Collection` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/collection.php:643
+OTUS - #0: Bitrix\Main\ORM\Objectify\Collection->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:106
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 15:26:58 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:104
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 15:28:47 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:104
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-26 15:32:34 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:104
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 00:24:39 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:96
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 00:30:39 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:100
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 00:40:32 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:108
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 00:40:56 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:108
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 00:41:23 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:108
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 00:42:56 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCountry() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:108
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 00:47:30 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCURRENCY() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:108
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 00:52:00 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCurrency() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:108
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 00:59:21 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getCurrency` for object `Bitrix\Iblock\Elements\EO_ElementCountry_Collection` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/collection.php:643
+OTUS - #0: Bitrix\Main\ORM\Objectify\Collection->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:108
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 00:59:37 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getCURRENCY` for object `Bitrix\Iblock\Elements\EO_ElementCountry_Collection` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/collection.php:643
+OTUS - #0: Bitrix\Main\ORM\Objectify\Collection->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:108
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:01:15 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - get_class_methods(): Argument #1 ($object_or_class) must be an object or a valid class name, null given (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:108
+OTUS - #0: get_class_methods
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:108
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:01:28 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getCurrency` for object `Bitrix\Iblock\Elements\EO_ElementCountry_Collection` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/collection.php:643
+OTUS - #0: Bitrix\Main\ORM\Objectify\Collection->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:110
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:02:02 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getCurrencyValue` for object `Bitrix\Iblock\Elements\EO_ElementCountry_Collection` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/collection.php:643
+OTUS - #0: Bitrix\Main\ORM\Objectify\Collection->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:110
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:03:18 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getCurrencyValue` for object `Bitrix\Iblock\Elements\EO_ElementCountry_Collection` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/collection.php:643
+OTUS - #0: Bitrix\Main\ORM\Objectify\Collection->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:110
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:03:55 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getCurrencyValue` for object `Bitrix\Iblock\Elements\EO_ElementCountry_Collection` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/collection.php:643
+OTUS - #0: Bitrix\Main\ORM\Objectify\Collection->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:110
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:05:15 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getCurrency` for object `Bitrix\Iblock\Elements\EO_ElementCountry_Collection` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/collection.php:643
+OTUS - #0: Bitrix\Main\ORM\Objectify\Collection->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:110
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:11:36 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getAll` for object `Bitrix\Iblock\Elements\EO_IblockProperty94` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:117
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:20:46 - Host: 10.10.10.65 - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - /var/www/html/bx-site/bitrix/components/bitrix/ui.toolbar/class.php:58
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:20:58 - Host: 10.10.10.65 - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - /var/www/html/bx-site/bitrix/components/bitrix/ui.toolbar/class.php:58
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:22:58 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getValue` for object `Bitrix\Iblock\Elements\EO_IblockProperty96_Collection` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/collection.php:643
+OTUS - #0: Bitrix\Main\ORM\Objectify\Collection->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:115
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:23:10 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getValue() on array (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:115
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:24:27 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getValue() on array (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:119
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:31:45 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getName` for object `Bitrix\Iblock\Elements\EO_IblockProperty96` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:117
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:32:11 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getEn` for object `Bitrix\Iblock\Elements\EO_IblockProperty96` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:118
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:34:25 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `NAME` (CITIES.NAME) for \Bitrix\Iblock\Elements\IblockProperty96 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:104
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:35:54 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `EN` (CITIES.EN) for \Bitrix\Iblock\Elements\IblockProperty96 Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:104
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:36:01 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `EN` (CITIES.ELEMENT.EN) for \Bitrix\Iblock\Elements\ElementCities Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:104
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:36:21 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getName` for object `Bitrix\Iblock\Elements\EO_IblockProperty96` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:112
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:36:29 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getEnglish` for object `Bitrix\Iblock\Elements\EO_IblockProperty96` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:113
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:38:19 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getValue() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:112
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 01:38:29 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getEnglish` for object `Bitrix\Iblock\Elements\EO_IblockProperty96` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:115
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 02:04:14 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 02:04:20 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 02:04:40 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 02:04:43 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 02:05:10 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:81
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 02:07:20 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Undefined constant "IBLOCK_CATALOG_ID" (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:8
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 02:13:41 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function pp() (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:88
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 02:22:44 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getCURRENCY` for object `Bitrix\Iblock\Elements\EO_ElementCountry` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:96
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 02:25:21 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getCURRENCY` for object `Bitrix\Iblock\Elements\EO_ElementCountry` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:96
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 02:36:07 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:83
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 02:41:55 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getId() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:87
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 02:42:28 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getName() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:90
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 03:47:47 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getName() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:90
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 03:47:53 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getName() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:90
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 03:58:33 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getValue` for object `Bitrix\Iblock\Elements\EO_IblockProperty96_Collection` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/collection.php:643
+OTUS - #0: Bitrix\Main\ORM\Objectify\Collection->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:111
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 04:00:43 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getValue` for object `Bitrix\Iblock\Elements\EO_IblockProperty96_Collection` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/collection.php:643
+OTUS - #0: Bitrix\Main\ORM\Objectify\Collection->__call
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:111
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 04:11:54 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:84
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 04:15:30 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:84
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 04:15:33 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:84
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 04:21:50 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:84
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 04:21:52 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:84
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 04:21:53 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:84
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 04:22:55 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getCities() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi.php:84
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 06:12:35 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `PROC_IDS_M` (PROC_IDS_M.ELEMENT.*) for \Bitrix\Iblock\Elements\ElementDoctors Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:11
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 06:13:01 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `PROC_IDS_M` (PROC_IDS_M.ELEMENT.*) for \Bitrix\Iblock\Elements\ElementDoctors Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:11
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 06:13:36 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `PROC_IDS_M` (PROC_IDS_M.ELEMENT.*) for \Bitrix\Iblock\Elements\ElementDoctors Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:11
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 06:14:08 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `DESCRIPTION` (PROC_ID_M.ELEMENT.DESCRIPTION) for \Bitrix\Iblock\Elements\ElementProcedures Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:11
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 06:15:04 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `DESCRIPTION` (PROC_ID_M.ELEMENT.DESCRIPTION) for \Bitrix\Iblock\Elements\ElementProcedures Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi.php:11
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:05:40 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `MANUFACTURER_ID` (MANUFACTURER_ID) for \Models\Lists\CarsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:9
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:08:47 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:17:15 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:18:38 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:20:40 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (COUNTRY) for \Models\Lists\CarsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1892
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToOrderChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2495
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:21:02 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (COUNTRY) for \Models\Lists\CarsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1892
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToOrderChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2495
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:25:05 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:27:47 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:29:27 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:29:31 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:29:48 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:29:49 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:29:50 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:29:51 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:29:51 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:29:51 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:29:52 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 07:29:52 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `COUNTRY` (MANUFACTURER.COUNTRY) for \Models\Lists\CarManufacturerPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/cars/orm-custom-model.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 09:28:01 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function var_damp() (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:32
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:35:45 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ID` (ID) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/index.php:25
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:36:36 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `NAME` (NAME) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/index.php:25
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:37:03 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ACTIVE` (ACTIVE) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1381
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2479
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/index.php:25
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:37:22 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:37
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:40:08 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:37
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:41:07 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:37
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:41:07 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:37
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:42:41 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:39
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:43:31 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:39
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:48:40 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:39
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:48:45 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:39
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:48:48 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:39
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:49:25 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:39
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:49:27 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:39
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:49:29 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:39
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:52:50 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `NAME` (NAME) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:35
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:54:16 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `NAME` (NAME) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:38
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:55:22 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `NAME` (NAME) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:38
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:55:27 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `NAME` (NAME) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:38
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:56:15 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `DESCRIPTION` (PROC_ID_M.ELEMENT.DESCRIPTION) for \Bitrix\Iblock\Element Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:38
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:56:18 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `DESCRIPTION` (PROC_ID_M.ELEMENT.DESCRIPTION) for \Bitrix\Iblock\Element Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:38
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:56:47 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ACTIVE` (ACTIVE) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1381
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2479
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:38
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:56:49 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ACTIVE` (ACTIVE) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1381
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2479
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:38
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:57:32 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ID` (ID) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1381
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2479
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:38
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 11:57:52 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #2: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:39
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 12:04:19 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ID` (ID) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:14
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 12:10:03 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `MANUFACTURER_ID` (MANUFACTURER_ID) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2794
+OTUS - #2: Bitrix\Main\ORM\Query\Query->prepareJoinReference
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2135
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildJoinMap
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2498
+OTUS - #4: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #5: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #6: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 22:50:35 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:43
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 22:55:48 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `DESCRIPTION` (PROC_ID_M.ELEMENT.DESCRIPTION) for \Bitrix\Iblock\Element Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:31
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 22:56:05 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `DESCRIPTION` (PROC_ID_M.ELEMENT.DESCRIPTION) for \Bitrix\Iblock\Element Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:31
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 23:05:37 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `NAME` (NAME) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:22
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 23:37:14 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\NotImplementedException] 
+OTUS -  (140)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/collection.php:985
+OTUS - #0: Bitrix\Main\ORM\Objectify\Collection->offsetGet
+OTUS - 	/var/www/html/bx-site/doctors/index.php:46
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 23:37:43 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_IblockProperty98 could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:46
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 23:39:21 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown property `getFirstName` for object `Bitrix\Iblock\Elements\EO_ElementDoctors` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:896
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__get
+OTUS - 	/var/www/html/bx-site/doctors/index.php:46
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 23:39:49 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_IblockProperty98 could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:46
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 23:40:13 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getName` for object `Bitrix\Iblock\Elements\EO_IblockProperty98` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/doctors/index.php:46
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-27 23:40:37 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getElement` for object `Bitrix\Iblock\Elements\EO_IblockProperty98` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/doctors/index.php:46
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 00:54:56 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getElement` for object `Bitrix\Iblock\Elements\EO_IblockProperty98` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/doctors/index.php:46
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 00:56:47 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_ElementDoctors could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:46
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 00:57:22 - Host: bx24.vlc.ru - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - /var/www/html/bx-site/bitrix/components/bitrix/ui.toolbar/class.php:58
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 00:57:28 - Host: bx24.vlc.ru - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - /var/www/html/bx-site/bitrix/components/bitrix/ui.toolbar/class.php:58
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 00:57:51 - Host: bx24.vlc.ru - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - /var/www/html/bx-site/bitrix/components/bitrix/ui.toolbar/class.php:58
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 00:58:31 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_ElementDoctors could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:46
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 00:58:52 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_ElementDoctors could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:46
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 01:10:03 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_ElementDoctors could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:46
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 01:12:12 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_IblockProperty98 could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:46
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 01:12:23 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_IblockProperty98 could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:46
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 01:12:45 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getElement` for object `Bitrix\Iblock\Elements\EO_IblockProperty98` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/doctors/index.php:46
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 01:13:24 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getElement` for object `Bitrix\Iblock\Elements\EO_IblockProperty98` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/doctors/index.php:48
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 01:13:32 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_IblockProperty98 could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:48
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 01:13:58 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_IblockProperty108 could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:48
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 01:14:02 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_IblockProperty108 could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:48
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 01:14:18 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_IblockProperty108 could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:48
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 01:14:20 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_IblockProperty108 could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:48
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 01:14:20 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_IblockProperty108 could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:48
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 01:14:20 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_IblockProperty108 could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:48
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 01:14:21 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Iblock\Elements\EO_IblockProperty108 could not be converted to string (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:48
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 03:01:29 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ID` (ID) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:23
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 03:02:02 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `DESCRIPTION` (PROC_ID_M.ELEMENT.DESCRIPTION) for \Bitrix\Iblock\Element Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:23
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 03:02:10 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ID` (ID.*) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:23
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 05:08:12 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ID` (ID.*) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:23
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 05:08:22 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ID` (ID.*) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:23
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 05:10:53 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `NAME` (NAME) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:21
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 05:11:36 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `DESCRIPTION` (PROC_ID_M.ELEMENT.DESCRIPTION) for \Bitrix\Iblock\Element Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:21
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 05:37:04 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\ArgumentException] 
+OTUS - ElementProcedures Entity has no `FIRST_NAME` field. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:573
+OTUS - #0: Bitrix\Main\ORM\Entity->getField
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:969
+OTUS - #1: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:717
+OTUS - #2: Bitrix\Main\ORM\Objectify\EntityObject->get
+OTUS - 	/var/www/html/bx-site/doctors/index.php:69
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 06:29:53 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Models\Lists\ProceduresPropertyValuesTable" not found (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:79
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 06:30:23 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Models\Lists\ProceduresPropertyValuesTable" not found (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:79
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-28 06:47:20 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Models\Lists\ProceduresPropertyValuesTable" not found (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:79
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 01:40:10 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "ifProceduresTable" not found (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:78
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 01:42:54 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "ifProceduresTable" not found (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:78
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 01:46:17 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `DESCRIPTION` (PROC_ID_M.ELEMENT.DESCRIPTION) for \Bitrix\Iblock\Element Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:21
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 01:46:29 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ACTIVE` (ACTIVE) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1381
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2479
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:20
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 01:46:43 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #2: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:20
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 02:00:01 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ID` (ID) for \Models\Lists\ProceduresPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:15
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 02:01:43 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `IBLOCK_ELEMENT_ID` (IBLOCK_ELEMENT_ID) for \Bitrix\Iblock\Elements\ElementProcedures Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:15
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 02:02:06 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ACTIVE` (ACTIVE) for \Models\Lists\ProceduresPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1381
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2479
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #4: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:15
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 02:02:28 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getAll() on null (0)
+OTUS - /var/www/html/bx-site/doctors/multi1.php:26
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 02:05:53 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getТName() on array (0)
+OTUS - /var/www/html/bx-site/doctors/multi1.php:26
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 02:06:01 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getName() on array (0)
+OTUS - /var/www/html/bx-site/doctors/multi1.php:26
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 09:41:20 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT_ID` (ELEMENT_ID) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:24
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 09:46:46 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT_ID` (ELEMENT_ID) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1003
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetch
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:24
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 09:47:36 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Iblock\Elements\Element\DoctorsTable" not found (0)
+OTUS - /var/www/html/bx-site/doctors/multi1.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 09:47:55 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT_ID` (ELEMENT_ID) for \Bitrix\Iblock\Elements\ElementDoctors Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1003
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetch
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:24
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 09:49:24 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `FIRST_NAME` (ELEMENT.FIRST_NAME) for \Bitrix\Iblock\Element Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1003
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetch
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:24
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 09:49:59 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `MIDDLE_NAME` (ELEMENT.MIDDLE_NAME) for \Bitrix\Iblock\Element Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1003
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetch
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:24
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:02:18 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "ProcTable" not found (0)
+OTUS - /var/www/html/bx-site/doctors/multi1.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:02:56 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:33
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:07:56 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:14:41 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:19:30 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type string on string (0)
+OTUS - /var/www/html/bx-site/doctors/multi1.php:29
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:28:37 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:29:44 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:30:02 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:36
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:38:06 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:47
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:40:29 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:47
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:40:50 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:47
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:44:32 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:47
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:44:59 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:47
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:46:59 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:47
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:47:24 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:48
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:48:25 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type string on string (0)
+OTUS - /var/www/html/bx-site/doctors/multi1.php:28
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:49:10 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:49
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:49:12 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:49
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 10:50:46 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:04:34 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:04:57 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:05:33 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1003
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetch
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:06:15 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1003
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetch
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:07:04 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1003
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetch
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:40:35 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:41:01 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:41:22 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:41:49 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:43:20 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:53
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:51:24 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:54
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:52:15 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type array in isset or empty (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3502
+OTUS - #0: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1503
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterHandlerChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2485
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1017
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchAll
+OTUS - 	/var/www/html/bx-site/doctors/multi1.php:54
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:56:37 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getAll() on null (0)
+OTUS - /var/www/html/bx-site/doctors/index.php:80
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:59:07 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `NAME` (NAME) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #5: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:59
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 11:59:41 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ID` (ID) for \Models\Lists\DoctorsPropertyValues Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1381
+OTUS - #1: Bitrix\Main\ORM\Query\Query->setFilterChains
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2479
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #4: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:59
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 12:00:03 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #2: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:59
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 12:01:31 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #2: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:60
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-29 12:02:54 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Primary of \Bitrix\Iblock\ElementTable was not found in database result (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:247
+OTUS - #0: Bitrix\Main\ORM\Query\Result->fetchObject
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/result.php:385
+OTUS - #1: Bitrix\Main\ORM\Query\Result->fetchCollection
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1052
+OTUS - #2: Bitrix\Main\ORM\Query\Query->fetchCollection
+OTUS - 	/var/www/html/bx-site/doctors/index.php:61
+OTUS - ----------
+OTUS - 
+OTUS - 

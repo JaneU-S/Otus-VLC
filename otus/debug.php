@@ -6,12 +6,12 @@ $a = date('Y-m-d H:i:s');
 
 //$b=1/0;
 
-Bitrix\Main\Diag\Debug::dump('ДЗ Отладка и логирование '.$a, 'OTUS ДЗ: дата/время', false);
+// Bitrix\Main\Diag\Debug::dump('ДЗ Отладка и логирование '.$a, 'OTUS ДЗ: дата/время', false);
+// Bitrix\Main\Diag\Debug::dumpToFile(['ID' => $a, 'fields'=>$fields ],"","__log.log"); 
 
-//Bitrix\Main\Diag\Debug::dumpToFile(['ID' => $a, 'fields'=>$fields ],"","__log.log"); 
-
-// Bitrix\Main\Diag\Debug::writeToFile($a, 'ДЗ: дата/время writeToFile', 'otus/logs/logOtus.log');
-// Bitrix\Main\Diag\Debug::dumpToFile($a, 'ДЗ: дата/время dumpToFile', 'otus/logs/logOtus.log');
+Bitrix\Main\Diag\Debug::writeToFile($a, 'DZ: Date/Time writeToFile', 'otus/logs/logOtus.log');
+Bitrix\Main\Diag\Debug::dumpToFile($a, 'DZ: Date/Time dumpToFile', 'otus/logs/logOtus.log');
+echo $a;
 
 // echo "Имя сервера - ".$_SERVER['SERVER_NAME']."<br />";
 //  echo "IP-адрес сервера - ".$_SERVER['SERVER_ADDR']."<br />";

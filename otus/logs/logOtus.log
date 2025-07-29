@@ -22,3 +22,27 @@
 ДЗ: дата/время dumpToFile=string(19) "2025-07-08 12:33:03"
 
 
+DZ: Date/Time writeToFile:
+2025-07-10 23:47:20
+
+DZ: Date/Time dumpToFile=string(19) "2025-07-10 23:47:20"
+
+
+DZ: Date/Time writeToFile:
+2025-07-10 23:47:54
+
+DZ: Date/Time dumpToFile=string(19) "2025-07-10 23:47:54"
+
+
+DZ: Date/Time writeToFile:
+2025-07-11 07:28:44
+
+DZ: Date/Time dumpToFile=string(19) "2025-07-11 07:28:44"
+
+
+DZ: Date/Time writeToFile:
+2025-07-11 07:29:04
+
+DZ: Date/Time dumpToFile=string(19) "2025-07-11 07:29:04"
+
+
