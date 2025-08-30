@@ -9,8 +9,27 @@ use Models\Lists\ProceduresPropertyValuesTable as ProceduresTable;
 
   $docId = 53; // идентификатор доктора из инфоблока Доктора
 
-$doctors=[];
+// $q->setLimit(1);
+// $q->registerRuntimeField(
+//     'RAND', [
+//         'data_type' => 'float',
+//         'expression' => [
+//             'RAND',
+//         ]
+//     ]
+// );
 
+// $q->setorder('RAND', 'ASC');
+
+// $result = $q->exec();
+// while ($arItem = $result->Fetch()) {
+//     var_dump($result);
+// }
+
+
+
+$doctors=[];
+\Bitrix\Iblock\Elements\Element
 $doctors = DoctorsTable::query() 
     ->setSelect([  
         '*',

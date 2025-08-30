@@ -2967,4 +2967,940 @@ OTUS - #2: Bitrix\Main\ORM\Query\Query->fetchCollection
 OTUS - 	/var/www/html/bx-site/doctors/index.php:61
 OTUS - ----------
 OTUS - 
+OTUS - OTUS - 2025-07-30 11:56:29 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "->", expecting "]" (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:5
+OTUS - #0: require_once
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-30 11:57:18 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "->", expecting "]" (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:5
+OTUS - #0: require_once
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-30 11:57:21 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "->", expecting "]" (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:5
+OTUS - #0: require_once
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-30 11:58:47 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "->", expecting "]" (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:5
+OTUS - #0: require_once
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-30 11:59:30 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "->", expecting "]" (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:5
+OTUS - #0: require_once
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-30 12:01:16 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "->", expecting "]" (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:5
+OTUS - #0: require_once
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-30 12:03:56 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "->", expecting "]" (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:5
+OTUS - #0: require_once
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-30 12:04:31 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "->", expecting "]" (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:5
+OTUS - #0: require_once
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-30 12:09:56 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "foreach" (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:21
+OTUS - #0: require_once
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-07-30 12:10:23 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "foreach" (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:21
+OTUS - #0: require_once
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 03:00:23 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "TypeTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:5
+OTUS - #0: eval
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php:135
+OTUS - #1: require_once(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 03:03:23 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "TypeTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:5
+OTUS - #0: eval
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php:135
+OTUS - #1: require_once(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 03:03:36 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "TypeTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:5
+OTUS - #0: eval
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php:135
+OTUS - #1: require_once(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 03:06:20 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Bitrix\Crm\Model\Dynamic\TypeTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:7
+OTUS - #0: eval
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php:135
+OTUS - #1: require_once(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 05:53:43 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "->", expecting "]" (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:5
+OTUS - #0: require_once
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 06:04:55 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "->", expecting "]" (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:10
+OTUS - #0: require_once
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 06:05:25 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [ParseError] 
+OTUS - syntax error, unexpected token "->", expecting "]" (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:10
+OTUS - #0: require_once
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 06:06:11 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Undefined constant "entryTypeId" (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:29
+OTUS - #0: eval
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php:135
+OTUS - #1: require_once(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 11:53:52 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `UF_CRM_LEAD_TEST_STRING` (UF_CRM_LEAD_TEST_STRING) for \Bitrix\Crm\Lead Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/examples/07/crm-examples-read.php:11
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 11:58:48 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `UF_CRM_LEAD_TEST_STRING` (UF_CRM_LEAD_TEST_STRING) for \Bitrix\Crm\Lead Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/examples/07/crm-examples-read.php:11
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 12:01:50 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `UF_CRM_LEAD_TEST_STRING` (UF_CRM_LEAD_TEST_STRING) for \Bitrix\Crm\Lead Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/examples/07/crm-examples-read.php:11
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 12:11:07 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `UF_CRM_LEAD_TEST_STRING` (UF_CRM_LEAD_TEST_STRING) for \Bitrix\Crm\Lead Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:503
+OTUS - #5: Bitrix\Main\ORM\Data\DataManager::getList
+OTUS - 	/var/www/html/bx-site/examples/07/crm-examples-read.php:11
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 12:13:15 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function dump() (0)
+OTUS - /var/www/html/bx-site/examples/07/crm-examples-read.php:20
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 12:14:52 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function dump() (0)
+OTUS - /var/www/html/bx-site/examples/07/crm-examples-read.php:20
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-02 12:15:15 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function dump() (0)
+OTUS - /var/www/html/bx-site/examples/07/crm-examples-read.php:45
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-03 05:38:32 - Host: 10.10.10.65 - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Invalid highloadblock description ' boolean(false)
+OTUS - '. (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/highloadblock/lib/highloadblocktable.php:406
+OTUS - #0: Bitrix\Highloadblock\HighloadBlockTable::compileEntity
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:14
+OTUS - #1: eval
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/admin/php_command_line.php:135
+OTUS - #2: require_once(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/php_command_line.php:2
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-09 14:10:22 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined method Bitrix\Main\DB\MysqliConnection::isTableExist() (0)
+OTUS - /var/www/html/bx-site/otus/09/create-my-tables.php:16
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-09 15:07:47 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined method Bitrix\Main\DB\MysqliConnection::isTableExist() (0)
+OTUS - /var/www/html/bx-site/otus/09/create-my-tables.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-09 15:12:31 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined method Bitrix\Main\DB\MysqliConnection::isTableExist() (0)
+OTUS - /var/www/html/bx-site/otus/09/create-my-tables.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-09 15:12:44 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined method Bitrix\Main\DB\MysqliConnection::isTableExist() (0)
+OTUS - /var/www/html/bx-site/otus/09/create-my-tables.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-09 15:13:09 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined method Bitrix\Main\DB\MysqliConnection::isTableExist() (0)
+OTUS - /var/www/html/bx-site/otus/09/create-my-tables.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-10 15:22:04 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type string on string (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:100
+OTUS - #0: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:119
+OTUS - #1: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:293
+OTUS - #2: CComponentUtil::__GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:357
+OTUS - #3: CComponentUtil::GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:789
+OTUS - #4: CHTMLEditor::GetComponents
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:896
+OTUS - #5: CHTMLEditor::RequestAction
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/admin/fileman_html_editor_action.php:16
+OTUS - #6: require(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/fileman_html_editor_action.php:1
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 07:21:04 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Otus\Orm\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 07:23:11 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 07:23:30 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 08:24:58 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Otus\Orm\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 08:25:36 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Otus2\Orm\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 08:27:15 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Otus\Orm\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 08:30:12 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Otus\Orm\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 08:32:29 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 08:32:39 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Sertificates_TablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 08:33:01 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 08:33:54 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\SertificatesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 08:35:23 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 08:35:38 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 08:35:55 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 08:38:48 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:14
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 08:52:05 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:02:26 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:02:42 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\SertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:02:57 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\CertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:06:58 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\CertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:07:18 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\CertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:07:20 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\CertificatesTablesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:09:32 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "\Models\Lists\CertificatesTable" not found (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:123
+OTUS - #0: Bitrix\Main\ORM\Entity::getInstanceDirect
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/entity.php:108
+OTUS - #1: Bitrix\Main\ORM\Entity::getInstance
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:259
+OTUS - #2: Bitrix\Main\ORM\Query\Query->__construct
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:13
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:10:24 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `TYPR_CERT` (TYPR_CERT) for \Models\Lists\Certificates Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:23
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:11:23 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+OTUS - Mysql query error: (1146) Table 'bx24.is_sertificates' doesn't exist (400)
+OTUS - SELECT 
+OTUS - 	`models_lists_certificates`.`ID` AS `ID`,
+OTUS - 	`models_lists_certificates`.`NUM_CERT` AS `NUM_CERT`,
+OTUS - 	`models_lists_certificates`.`TYPE_CERT` AS `TYPE_CERT`,
+OTUS - 	`models_lists_certificates`.`DATE_OUT` AS `DATE_OUT`,
+OTUS - 	`models_lists_certificates`.`ACIVE` AS `ACIVE`,
+OTUS - 	`models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates_element_is`.`NAME` AS `IS`,
+OTUS - 	`models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates`.`ID_CERT` AS `UALIAS_0`,
+OTUS - 	`models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates`.`ID_IS` AS `UALIAS_1`,
+OTUS - 	`models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates_element_is`.`ID` AS `UALIAS_2`
+OTUS - FROM `certificates_table` `models_lists_certificates` 
+OTUS - LEFT JOIN `is_sertificates` `models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates` ON `models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates`.`ID_CERT` = `models_lists_certificates`.`ID`
+OTUS - LEFT JOIN `b_iblock_element` `models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates_element_is` ON `models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates`.`ID_IS` = `models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates_element_is`.`ID`
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+OTUS - #0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/db/mysqliconnection.php:149
+OTUS - #1: Bitrix\Main\DB\MysqliConnection->queryInternal
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/db/connection.php:324
+OTUS - #2: Bitrix\Main\DB\Connection->query
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3601
+OTUS - #3: Bitrix\Main\ORM\Query\Query->query
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:972
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:23
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:11:54 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function dump() (0)
+OTUS - /var/www/html/bx-site/otus/09/index.php:29
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:17:32 - Host: bx24.vlc.ru - FATAL - [ErrorException] E_ERROR
+OTUS - base64_encode(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/seo/include.php:82
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:17:48 - Host: bx24.vlc.ru - FATAL - [ErrorException] E_ERROR
+OTUS - base64_encode(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/seo/include.php:82
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:18:00 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Object of class Bitrix\Main\ORM\Query\Result could not be converted to string (0)
+OTUS - /var/www/html/bx-site/otus/09/index.php:29
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:18:27 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function vardamp() (0)
+OTUS - /var/www/html/bx-site/otus/09/index.php:29
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:18:37 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function var_damp() (0)
+OTUS - /var/www/html/bx-site/otus/09/index.php:29
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:19:09 - Host: bx24.vlc.ru - FATAL - [ErrorException] E_ERROR
+OTUS - base64_encode(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/seo/include.php:82
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:19:27 - Host: bx24.vlc.ru - FATAL - [ErrorException] E_ERROR
+OTUS - base64_encode(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/seo/include.php:82
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:27:27 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+OTUS - Mysql query error: (1054) Unknown column 'RAND' in 'order clause' (400)
+OTUS - SELECT 
+OTUS - 	`models_lists_certificates`.`ID` AS `ID`,
+OTUS - 	`models_lists_certificates`.`NUM_CERT` AS `NUM_CERT`,
+OTUS - 	`models_lists_certificates`.`TYPE_CERT` AS `TYPE_CERT`,
+OTUS - 	`models_lists_certificates`.`DATE_OUT` AS `DATE_OUT`,
+OTUS - 	`models_lists_certificates`.`ACIVE` AS `ACIVE`,
+OTUS - 	`models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates_element_is`.`NAME` AS `IS`,
+OTUS - 	`models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates`.`ID_CERT` AS `UALIAS_0`,
+OTUS - 	`models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates`.`ID_IS` AS `UALIAS_1`,
+OTUS - 	`models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates_element_is`.`ID` AS `UALIAS_2`
+OTUS - FROM `certificates_table` `models_lists_certificates` 
+OTUS - LEFT JOIN `is_certificates` `models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates` ON `models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates`.`ID_CERT` = `models_lists_certificates`.`ID`
+OTUS - LEFT JOIN `b_iblock_element` `models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates_element_is` ON `models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates`.`ID_IS` = `models_lists_certificates_mediator_from_certificates_to_element_is_via_is_certificates_certificates_element_is`.`ID`
+OTUS - ORDER BY RAND ASC
+OTUS - LIMIT 0, 1
+OTUS - 
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+OTUS - #0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/db/mysqliconnection.php:149
+OTUS - #1: Bitrix\Main\DB\MysqliConnection->queryInternal
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/db/connection.php:324
+OTUS - #2: Bitrix\Main\DB\Connection->query
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3601
+OTUS - #3: Bitrix\Main\ORM\Query\Query->query
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:972
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:38
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:31:35 - Host: bx24.vlc.ru - FATAL - [ErrorException] E_ERROR
+OTUS - base64_encode(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/seo/include.php:82
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:32:40 - Host: bx24.vlc.ru - FATAL - [ErrorException] E_ERROR
+OTUS - base64_encode(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/seo/include.php:82
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:40:32 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function getName() (0)
+OTUS - /var/www/html/bx-site/otus/09/index.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:41:08 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getName` for object `Models\Lists\EO_Certificates` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:46:32 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getIS` for object `Models\Lists\EO_Certificates` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:52:01 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getIS` for object `Models\Lists\EO_Certificates` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:52:13 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getIs` for object `Models\Lists\EO_Certificates` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:52:15 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getIs` for object `Models\Lists\EO_Certificates` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 09:52:58 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown method `getIsName` for object `Models\Lists\EO_Certificates` (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/objectify/entityobject.php:1367
+OTUS - #0: Bitrix\Main\ORM\Objectify\EntityObject->__call
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 10:02:01 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to undefined function dump() (0)
+OTUS - /var/www/html/bx-site/otus/09/index.php:30
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 10:02:18 - Host: bx24.vlc.ru - FATAL - [ErrorException] E_ERROR
+OTUS - ob_end_clean(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/classes/general/main.php:3283
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 10:02:47 - Host: bx24.vlc.ru - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - /var/www/html/bx-site/bitrix/components/bitrix/ui.toolbar/class.php:58
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 10:03:02 - Host: bx24.vlc.ru - FATAL - [ErrorException] E_ERROR
+OTUS - ob_start(): Cannot use output buffering in output buffering display handlers (0)
+OTUS - /var/www/html/bx-site/bitrix/components/bitrix/ui.toolbar/class.php:58
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 10:11:37 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ACT` (is_certificates.ACT) for \Bitrix\Iblock\Elements\ElementIS Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 10:12:24 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `NOTE` (is_certificates.NOTE) for \Bitrix\Iblock\Elements\ElementIS Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 10:14:59 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `NOTE` (is_certificates.NOTE) for \Bitrix\Iblock\Elements\ElementIS Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 10:22:41 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `NOTE` (is_certificates.NOTE) for \Bitrix\Iblock\Elements\ElementIS Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 10:23:58 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getIsName() on string (0)
+OTUS - /var/www/html/bx-site/otus/09/index.php:32
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 10:27:11 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function getNumCert() on string (0)
+OTUS - /var/www/html/bx-site/otus/09/index.php:32
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 11:38:21 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `VALUE` (is_certificates.VALUE.*) for \Bitrix\Iblock\Elements\ElementIS Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 11:44:46 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `VALUE` (is_certificates.VALUE.*) for \Bitrix\Iblock\Elements\ElementIS Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 11:45:02 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `PROPERTY` (is_certificates.PROPERTY.*) for \Bitrix\Iblock\Elements\ElementIS Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 11:45:13 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `NOTE` (is_certificates.NOTE) for \Bitrix\Iblock\Elements\ElementIS Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 11:45:24 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `PROPERTY_NOTE` (is_certificates.PROPERTY_NOTE) for \Bitrix\Iblock\Elements\ElementIS Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:3509
+OTUS - #1: Bitrix\Main\ORM\Query\Query->getRegisteredChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1231
+OTUS - #2: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #3: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #4: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 11:45:40 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `PROPERTY_` (is_certificates.PROPERTY_.*) for \Bitrix\Iblock\Elements\ElementIS Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-29 11:46:35 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `ELEMENT` (is_certificates.ELEMENT.*) for \Bitrix\Iblock\Elements\ElementIS Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:27
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-30 08:24:58 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `users_certificates` (users_certificates.*) for \Models\Lists\Certificates Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:29
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-30 08:25:37 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `users_certificates` (users_certificates.*) for \Models\Lists\Certificates Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:29
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-30 08:26:48 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `users_cert` (users_cert.*) for \Models\Lists\Certificates Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:29
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-30 08:28:55 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+OTUS - Unknown field definition `users_cert` (users_cert.*) for \Models\Lists\Certificates Entity. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/query/chain.php:346
+OTUS - #0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:1153
+OTUS - #1: Bitrix\Main\ORM\Query\Query->addToSelectChain
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:2476
+OTUS - #2: Bitrix\Main\ORM\Query\Query->buildQuery
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/query/query.php:942
+OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
+OTUS - 	/var/www/html/bx-site/otus/09/index.php:29
+OTUS - ----------
+OTUS - 
 OTUS - 
