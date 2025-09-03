@@ -3903,4 +3903,241 @@ OTUS - #3: Bitrix\Main\ORM\Query\Query->exec
 OTUS - 	/var/www/html/bx-site/otus/09/index.php:29
 OTUS - ----------
 OTUS - 
+OTUS - OTUS - 2025-08-30 12:27:59 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type string on string (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:100
+OTUS - #0: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:119
+OTUS - #1: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:293
+OTUS - #2: CComponentUtil::__GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:357
+OTUS - #3: CComponentUtil::GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:789
+OTUS - #4: CHTMLEditor::GetComponents
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:458
+OTUS - #5: CHTMLEditor->Init
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:598
+OTUS - #6: CHTMLEditor->Show
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/admin/fileman_html_edit.php:906
+OTUS - #7: require(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/fileman_html_edit.php:3
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-30 12:28:56 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type string on string (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:100
+OTUS - #0: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:119
+OTUS - #1: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:293
+OTUS - #2: CComponentUtil::__GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:357
+OTUS - #3: CComponentUtil::GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:789
+OTUS - #4: CHTMLEditor::GetComponents
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:458
+OTUS - #5: CHTMLEditor->Init
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:598
+OTUS - #6: CHTMLEditor->Show
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/admin/fileman_html_edit.php:906
+OTUS - #7: require(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/fileman_html_edit.php:3
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-30 12:29:52 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type string on string (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:100
+OTUS - #0: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:119
+OTUS - #1: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:293
+OTUS - #2: CComponentUtil::__GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:357
+OTUS - #3: CComponentUtil::GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:789
+OTUS - #4: CHTMLEditor::GetComponents
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:458
+OTUS - #5: CHTMLEditor->Init
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:598
+OTUS - #6: CHTMLEditor->Show
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/admin/fileman_html_edit.php:906
+OTUS - #7: require(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/fileman_html_edit.php:3
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-30 12:30:33 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type string on string (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:100
+OTUS - #0: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:119
+OTUS - #1: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:293
+OTUS - #2: CComponentUtil::__GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:357
+OTUS - #3: CComponentUtil::GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:789
+OTUS - #4: CHTMLEditor::GetComponents
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:458
+OTUS - #5: CHTMLEditor->Init
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:598
+OTUS - #6: CHTMLEditor->Show
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/admin/fileman_html_edit.php:906
+OTUS - #7: require(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/fileman_html_edit.php:3
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-08-30 12:30:48 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type string on string (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:100
+OTUS - #0: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:119
+OTUS - #1: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:293
+OTUS - #2: CComponentUtil::__GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:357
+OTUS - #3: CComponentUtil::GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:789
+OTUS - #4: CHTMLEditor::GetComponents
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:458
+OTUS - #5: CHTMLEditor->Init
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:598
+OTUS - #6: CHTMLEditor->Show
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/admin/fileman_html_edit.php:906
+OTUS - #7: require(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/fileman_html_edit.php:3
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-09-01 01:25:45 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\ConnectionException] 
+OTUS - Mysql connect error [localhost]: (2002) No such file or directory (400)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/db/mysqliconnection.php:86
+OTUS - #0: Bitrix\Main\DB\MysqliConnection->connectInternal
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/data/connection.php:53
+OTUS - #1: Bitrix\Main\Data\Connection->getResource
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/db/mysqlisqlhelper.php:409
+OTUS - #2: Bitrix\Main\DB\MysqliSqlHelper->forSql
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/config/option.php:210
+OTUS - #3: Bitrix\Main\Config\Option::load
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/config/option.php:83
+OTUS - #4: Bitrix\Main\Config\Option::getRealValue
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/config/option.php:32
+OTUS - #5: Bitrix\Main\Config\Option::get
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/httprequest.php:422
+OTUS - #6: Bitrix\Main\HttpRequest->prepareCookie
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/httprequest.php:70
+OTUS - #7: Bitrix\Main\HttpRequest->__construct
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/httpapplication.php:39
+OTUS - #8: Bitrix\Main\HttpApplication->initializeContext
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/application.php:130
+OTUS - #9: Bitrix\Main\Application->initializeExtendedKernel
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/include.php:17
+OTUS - #10: require_once(string)
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/include/prolog_before.php:19
+OTUS - #11: require_once(string)
+OTUS - 	/var/www/html/bx-site/index.php:8
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-09-01 07:30:14 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type string on string (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:100
+OTUS - #0: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:119
+OTUS - #1: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:293
+OTUS - #2: CComponentUtil::__GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:357
+OTUS - #3: CComponentUtil::GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:789
+OTUS - #4: CHTMLEditor::GetComponents
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:458
+OTUS - #5: CHTMLEditor->Init
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:598
+OTUS - #6: CHTMLEditor->Show
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/public/file_edit.php:481
+OTUS - #7: require(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/public_file_edit.php:1
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-09-01 07:31:09 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type string on string (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:100
+OTUS - #0: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:119
+OTUS - #1: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:293
+OTUS - #2: CComponentUtil::__GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:357
+OTUS - #3: CComponentUtil::GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:789
+OTUS - #4: CHTMLEditor::GetComponents
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:458
+OTUS - #5: CHTMLEditor->Init
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:598
+OTUS - #6: CHTMLEditor->Show
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/public/file_edit.php:481
+OTUS - #7: require(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/public_file_edit.php:1
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-09-02 12:12:25 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Class "Loc" not found (0)
+OTUS - /var/www/html/bx-site/local/components/otus/currencies/templates/.default/template.php:24
+OTUS - #0: include
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_template.php:790
+OTUS - #1: CBitrixComponentTemplate->__IncludePHPTemplate
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_template.php:885
+OTUS - #2: CBitrixComponentTemplate->IncludeTemplate
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component.php:791
+OTUS - #3: CBitrixComponent->showComponentTemplate
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component.php:731
+OTUS - #4: CBitrixComponent->includeComponentTemplate
+OTUS - 	/var/www/html/bx-site/local/components/otus/currencies/class.php:199
+OTUS - #5: CurrencyRatesComponent->executeComponent
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component.php:675
+OTUS - #6: CBitrixComponent->includeComponent
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/main.php:1188
+OTUS - #7: CAllMain->IncludeComponent
+OTUS - 	/var/www/html/bx-site/otus/11/index.php:7
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-09-03 05:10:59 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function fetch() on null (0)
+OTUS - /var/www/html/bx-site/otus/11/index.php:22
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-09-03 05:11:41 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Error] 
+OTUS - Call to a member function fetch() on null (0)
+OTUS - /var/www/html/bx-site/otus/11/index.php:21
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-09-03 05:20:04 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\ArgumentException] 
+OTUS - Primary `CURRENCY` was not found when trying to query Currency row. (100)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:603
+OTUS - #0: Bitrix\Main\ORM\Data\DataManager::normalizePrimary
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/lib/orm/data/datamanager.php:332
+OTUS - #1: Bitrix\Main\ORM\Data\DataManager::getByPrimary
+OTUS - 	/var/www/html/bx-site/otus/11/index.php:24
+OTUS - ----------
+OTUS - 
+OTUS - OTUS - 2025-09-03 06:59:05 - Host: bx24.vlc.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+OTUS - Cannot access offset of type string on string (0)
+OTUS - /var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:100
+OTUS - #0: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:119
+OTUS - #1: CComponentUtil::__BuildTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:293
+OTUS - #2: CComponentUtil::__GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/classes/general/component_util.php:357
+OTUS - #3: CComponentUtil::GetComponentsTree
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:789
+OTUS - #4: CHTMLEditor::GetComponents
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:458
+OTUS - #5: CHTMLEditor->Init
+OTUS - 	/var/www/html/bx-site/bitrix/modules/fileman/classes/general/html_editor.php:598
+OTUS - #6: CHTMLEditor->Show
+OTUS - 	/var/www/html/bx-site/bitrix/modules/main/public/file_edit.php:481
+OTUS - #7: require(string)
+OTUS - 	/var/www/html/bx-site/bitrix/admin/public_file_edit.php:1
+OTUS - ----------
+OTUS - 
 OTUS - 

@@ -50,6 +50,8 @@ while ($arItem = $result->fetch()) {
         $typeCert='ЭП-ФЛ';
     }
 
+    // $typeCert= ($a ==1 ? 'TLS' : (($a ==2 ? 'ЭП-ОВ' : 'ЭП-ФЛ')));
+
     echo '<tr :nth-child><td>'.$arItem['Is_Name'].'</td><td>'.$arItem['NUM_CERT'].'<br>Прикреплен к '.$arItem['Is_UserName'].'</td><td>'.$arItem['DATE_OUT'].'</td><td>'.$typeCert.'</td></tr>';
 }
 echo '</tbody></table>';
