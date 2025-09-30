@@ -11,3 +11,17 @@ function pr($var, $type = false) {
         print_r($var);
     echo '</pre>';
 }
+
+use Bitrix\Main\EventManager;
+
+$eventManager = EventManager::getInstance();
+
+
+// обработчик событий инфоблока// 
+$eventManager->addEventHandler("iblock", "OnBeforeIBlockElementUpdate", ['Events\IblockHandler', 'onElementBeforeUpdate']);
+$eventManager->addEventHandler("iblock", "OnAfterIBlockElementUpdate", ['Events\IblockHandler', 'onElementAfterUpdate']);
+
+
+// обработчик событий CRM
+$eventManager->addEventHandler("crm", "OnAfterCrmDealUpdate", ['Events\CrmHandler', 'OnAfterDealUpdate']);
+//$eventManager->addEventHandler("crm", "OnBeforeCrmDealUpdate", ['Events\CrmHandler', 'OnBeforeDealUpdate']);

@@ -1,7 +1,3 @@
 <?php
- echo "Имя сервера - ".$_SERVER['SERVER_NAME']."<br />";
-  echo "IP-адрес сервера - ".$_SERVER['SERVER_ADDR']."<br />";
-  echo "Порт сервера - ".$_SERVER['SERVER_PORT']."<br />";
-  echo "Web-сервер - ".$_SERVER['SERVER_SOFTWARE']."<br />";
-  echo "Версия HTTP-протокола - ".$_SERVER['SERVER_PROTOCOL']."<br />"; 
+ phpinfo();
 ?>

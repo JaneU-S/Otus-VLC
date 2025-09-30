@@ -2,3 +2,559 @@
 
 2025-07-01 11:37:05
 
+Array
+(
+    [kpp] => 253601001
+    [kpp_largest] => 
+    [capital] => 
+    [invalid] => 
+    [management] => Array
+        (
+            [name] => Шестаков Константин Владимирович
+            [post] => ГЛАВА ГОРОДА ВЛАДИВОСТОКА
+            [start_date] => 1621890000000
+            [disqualified] => 
+        )
+
+    [founders] => 
+    [managers] => 
+    [predecessors] => 
+    [successors] => 
+    [branch_type] => MAIN
+    [branch_count] => 0
+    [source] => 
+    [qc] => 
+    [hid] => e06b5f4c3f6784864eaa48b5cc0b52441f7a78b366882757fb70abed4784c42a
+    [type] => LEGAL
+    [state] => Array
+        (
+            [status] => ACTIVE
+            [code] => 
+            [actuality_date] => 1738886400000
+            [registration_date] => 682819200000
+            [liquidation_date] => 
+        )
+
+    [opf] => Array
+        (
+            [type] => 2014
+            [code] => 75404
+            [full] => Муниципальное казенное учреждение
+            [short] => МКУ
+        )
+
+    [name] => Array
+        (
+            [full_with_opf] => АДМИНИСТРАЦИЯ ГОРОДА ВЛАДИВОСТОКА
+            [short_with_opf] => 
+            [latin] => 
+            [full] => АДМИНИСТРАЦИЯ ГОРОДА ВЛАДИВОСТОКА
+            [short] => 
+        )
+
+    [inn] => 2504001783
+    [ogrn] => 1022501302955
+    [okpo] => 04020784
+    [okato] => 05401364000
+    [oktmo] => 05701000001
+    [okogu] => 3300200
+    [okfs] => 14
+    [okved] => 84.11.35
+    [okveds] => 
+    [authorities] => 
+    [documents] => 
+    [licenses] => 
+    [finance] => 
+    [address] => Array
+        (
+            [value] => г Владивосток, Океанский пр-кт, д 20
+            [unrestricted_value] => 690091, Приморский край, г Владивосток, Ленинский р-н, Океанский пр-кт, д 20
+            [invalidity] => 
+            [data] => Array
+                (
+                    [postal_code] => 690091
+                    [country] => Россия
+                    [country_iso_code] => RU
+                    [federal_district] => Дальневосточный
+                    [region_fias_id] => 43909681-d6e1-432d-b61f-ddac393cb5da
+                    [region_kladr_id] => 2500000000000
+                    [region_iso_code] => RU-PRI
+                    [region_with_type] => Приморский край
+                    [region_type] => край
+                    [region_type_full] => край
+                    [region] => Приморский
+                    [area_fias_id] => 
+                    [area_kladr_id] => 
+                    [area_with_type] => 
+                    [area_type] => 
+                    [area_type_full] => 
+                    [area] => 
+                    [city_fias_id] => 7b6de6a5-86d0-4735-b11a-499081111af8
+                    [city_kladr_id] => 2500000100000
+                    [city_with_type] => г Владивосток
+                    [city_type] => г
+                    [city_type_full] => город
+                    [city] => Владивосток
+                    [city_area] => 
+                    [city_district_fias_id] => 
+                    [city_district_kladr_id] => 
+                    [city_district_with_type] => Ленинский р-н
+                    [city_district_type] => р-н
+                    [city_district_type_full] => район
+                    [city_district] => Ленинский
+                    [settlement_fias_id] => 
+                    [settlement_kladr_id] => 
+                    [settlement_with_type] => 
+                    [settlement_type] => 
+                    [settlement_type_full] => 
+                    [settlement] => 
+                    [street_fias_id] => d759fede-e5dc-4cf7-9d95-53a851778847
+                    [street_kladr_id] => 25000001000036600
+                    [street_with_type] => Океанский пр-кт
+                    [street_type] => пр-кт
+                    [street_type_full] => проспект
+                    [street] => Океанский
+                    [stead_fias_id] => 
+                    [stead_cadnum] => 
+                    [stead_type] => 
+                    [stead_type_full] => 
+                    [stead] => 
+                    [house_fias_id] => 21440ab7-280c-4401-aab6-32f6176ece60
+                    [house_kladr_id] => 2500000100003660131
+                    [house_cadnum] => 25:28:010002:57
+                    [house_flat_count] => 
+                    [house_type] => д
+                    [house_type_full] => дом
+                    [house] => 20
+                    [block_type] => 
+                    [block_type_full] => 
+                    [block] => 
+                    [entrance] => 
+                    [floor] => 
+                    [flat_fias_id] => 
+                    [flat_cadnum] => 
+                    [flat_type] => 
+                    [flat_type_full] => 
+                    [flat] => 
+                    [flat_area] => -1
+                    [square_meter_price] => -1
+                    [flat_price] => 
+                    [room_fias_id] => 
+                    [room_cadnum] => 
+                    [room_type] => 
+                    [room_type_full] => 
+                    [room] => 
+                    [postal_box] => 
+                    [fias_id] => 21440ab7-280c-4401-aab6-32f6176ece60
+                    [fias_code] => 25000001000000003660131
+                    [fias_level] => 8
+                    [fias_actuality_state] => 0
+                    [kladr_id] => 2500000100003660131
+                    [geoname_id] => 2013348
+                    [capital_marker] => 2
+                    [okato] => 05401364000
+                    [oktmo] => 05701000001
+                    [tax_office] => 2536
+                    [tax_office_legal] => 2536
+                    [timezone] => UTC+10
+                    [geo_lat] => 43.1193744
+                    [geo_lon] => 131.887472
+                    [beltway_hit] => 
+                    [beltway_distance] => 
+                    [metro] => 
+                    [divisions] => 
+                    [qc_geo] => 0
+                    [qc_complete] => 
+                    [qc_house] => 
+                    [history_values] => 
+                    [unparsed_parts] => 
+                    [source] => 690091, ПРИМОРСКИЙ КРАЙ, Г. ВЛАДИВОСТОК, ПР-КТ ОКЕАНСКИЙ, Д. 20
+                    [qc] => 0
+                )
+
+        )
+
+    [phones] => 
+    [emails] => 
+    [ogrn_date] => 1039651200000
+    [okved_type] => 2014
+    [employee_count] => 
+)
+
+
+Array
+(
+    [kpp] => 253601001
+    [kpp_largest] => 
+    [capital] => 
+    [invalid] => 
+    [management] => Array
+        (
+            [name] => Шестаков Константин Владимирович
+            [post] => ГЛАВА ГОРОДА ВЛАДИВОСТОКА
+            [start_date] => 1621890000000
+            [disqualified] => 
+        )
+
+    [founders] => 
+    [managers] => 
+    [predecessors] => 
+    [successors] => 
+    [branch_type] => MAIN
+    [branch_count] => 0
+    [source] => 
+    [qc] => 
+    [hid] => e06b5f4c3f6784864eaa48b5cc0b52441f7a78b366882757fb70abed4784c42a
+    [type] => LEGAL
+    [state] => Array
+        (
+            [status] => ACTIVE
+            [code] => 
+            [actuality_date] => 1738886400000
+            [registration_date] => 682819200000
+            [liquidation_date] => 
+        )
+
+    [opf] => Array
+        (
+            [type] => 2014
+            [code] => 75404
+            [full] => Муниципальное казенное учреждение
+            [short] => МКУ
+        )
+
+    [name] => Array
+        (
+            [full_with_opf] => АДМИНИСТРАЦИЯ ГОРОДА ВЛАДИВОСТОКА
+            [short_with_opf] => 
+            [latin] => 
+            [full] => АДМИНИСТРАЦИЯ ГОРОДА ВЛАДИВОСТОКА
+            [short] => 
+        )
+
+    [inn] => 2504001783
+    [ogrn] => 1022501302955
+    [okpo] => 04020784
+    [okato] => 05401364000
+    [oktmo] => 05701000001
+    [okogu] => 3300200
+    [okfs] => 14
+    [okved] => 84.11.35
+    [okveds] => 
+    [authorities] => 
+    [documents] => 
+    [licenses] => 
+    [finance] => 
+    [address] => Array
+        (
+            [value] => г Владивосток, Океанский пр-кт, д 20
+            [unrestricted_value] => 690091, Приморский край, г Владивосток, Ленинский р-н, Океанский пр-кт, д 20
+            [invalidity] => 
+            [data] => Array
+                (
+                    [postal_code] => 690091
+                    [country] => Россия
+                    [country_iso_code] => RU
+                    [federal_district] => Дальневосточный
+                    [region_fias_id] => 43909681-d6e1-432d-b61f-ddac393cb5da
+                    [region_kladr_id] => 2500000000000
+                    [region_iso_code] => RU-PRI
+                    [region_with_type] => Приморский край
+                    [region_type] => край
+                    [region_type_full] => край
+                    [region] => Приморский
+                    [area_fias_id] => 
+                    [area_kladr_id] => 
+                    [area_with_type] => 
+                    [area_type] => 
+                    [area_type_full] => 
+                    [area] => 
+                    [city_fias_id] => 7b6de6a5-86d0-4735-b11a-499081111af8
+                    [city_kladr_id] => 2500000100000
+                    [city_with_type] => г Владивосток
+                    [city_type] => г
+                    [city_type_full] => город
+                    [city] => Владивосток
+                    [city_area] => 
+                    [city_district_fias_id] => 
+                    [city_district_kladr_id] => 
+                    [city_district_with_type] => Ленинский р-н
+                    [city_district_type] => р-н
+                    [city_district_type_full] => район
+                    [city_district] => Ленинский
+                    [settlement_fias_id] => 
+                    [settlement_kladr_id] => 
+                    [settlement_with_type] => 
+                    [settlement_type] => 
+                    [settlement_type_full] => 
+                    [settlement] => 
+                    [street_fias_id] => d759fede-e5dc-4cf7-9d95-53a851778847
+                    [street_kladr_id] => 25000001000036600
+                    [street_with_type] => Океанский пр-кт
+                    [street_type] => пр-кт
+                    [street_type_full] => проспект
+                    [street] => Океанский
+                    [stead_fias_id] => 
+                    [stead_cadnum] => 
+                    [stead_type] => 
+                    [stead_type_full] => 
+                    [stead] => 
+                    [house_fias_id] => 21440ab7-280c-4401-aab6-32f6176ece60
+                    [house_kladr_id] => 2500000100003660131
+                    [house_cadnum] => 25:28:010002:57
+                    [house_flat_count] => 
+                    [house_type] => д
+                    [house_type_full] => дом
+                    [house] => 20
+                    [block_type] => 
+                    [block_type_full] => 
+                    [block] => 
+                    [entrance] => 
+                    [floor] => 
+                    [flat_fias_id] => 
+                    [flat_cadnum] => 
+                    [flat_type] => 
+                    [flat_type_full] => 
+                    [flat] => 
+                    [flat_area] => -1
+                    [square_meter_price] => -1
+                    [flat_price] => 
+                    [room_fias_id] => 
+                    [room_cadnum] => 
+                    [room_type] => 
+                    [room_type_full] => 
+                    [room] => 
+                    [postal_box] => 
+                    [fias_id] => 21440ab7-280c-4401-aab6-32f6176ece60
+                    [fias_code] => 25000001000000003660131
+                    [fias_level] => 8
+                    [fias_actuality_state] => 0
+                    [kladr_id] => 2500000100003660131
+                    [geoname_id] => 2013348
+                    [capital_marker] => 2
+                    [okato] => 05401364000
+                    [oktmo] => 05701000001
+                    [tax_office] => 2536
+                    [tax_office_legal] => 2536
+                    [timezone] => UTC+10
+                    [geo_lat] => 43.1193744
+                    [geo_lon] => 131.887472
+                    [beltway_hit] => 
+                    [beltway_distance] => 
+                    [metro] => 
+                    [divisions] => 
+                    [qc_geo] => 0
+                    [qc_complete] => 
+                    [qc_house] => 
+                    [history_values] => 
+                    [unparsed_parts] => 
+                    [source] => 690091, ПРИМОРСКИЙ КРАЙ, Г. ВЛАДИВОСТОК, ПР-КТ ОКЕАНСКИЙ, Д. 20
+                    [qc] => 0
+                )
+
+        )
+
+    [phones] => 
+    [emails] => 
+    [ogrn_date] => 1039651200000
+    [okved_type] => 2014
+    [employee_count] => 
+)
+
+
+Array
+(
+    [kpp] => 253601001
+    [kpp_largest] => 
+    [capital] => 
+    [invalid] => 
+    [management] => Array
+        (
+            [name] => Шестаков Константин Владимирович
+            [post] => ГЛАВА ГОРОДА ВЛАДИВОСТОКА
+            [start_date] => 1621890000000
+            [disqualified] => 
+        )
+
+    [founders] => 
+    [managers] => 
+    [predecessors] => 
+    [successors] => 
+    [branch_type] => MAIN
+    [branch_count] => 0
+    [source] => 
+    [qc] => 
+    [hid] => e06b5f4c3f6784864eaa48b5cc0b52441f7a78b366882757fb70abed4784c42a
+    [type] => LEGAL
+    [state] => Array
+        (
+            [status] => ACTIVE
+            [code] => 
+            [actuality_date] => 1738886400000
+            [registration_date] => 682819200000
+            [liquidation_date] => 
+        )
+
+    [opf] => Array
+        (
+            [type] => 2014
+            [code] => 75404
+            [full] => Муниципальное казенное учреждение
+            [short] => МКУ
+        )
+
+    [name] => Array
+        (
+            [full_with_opf] => АДМИНИСТРАЦИЯ ГОРОДА ВЛАДИВОСТОКА
+            [short_with_opf] => 
+            [latin] => 
+            [full] => АДМИНИСТРАЦИЯ ГОРОДА ВЛАДИВОСТОКА
+            [short] => 
+        )
+
+    [inn] => 2504001783
+    [ogrn] => 1022501302955
+    [okpo] => 04020784
+    [okato] => 05401364000
+    [oktmo] => 05701000001
+    [okogu] => 3300200
+    [okfs] => 14
+    [okved] => 84.11.35
+    [okveds] => 
+    [authorities] => 
+    [documents] => 
+    [licenses] => 
+    [finance] => 
+    [address] => Array
+        (
+            [value] => г Владивосток, Океанский пр-кт, д 20
+            [unrestricted_value] => 690091, Приморский край, г Владивосток, Ленинский р-н, Океанский пр-кт, д 20
+            [invalidity] => 
+            [data] => Array
+                (
+                    [postal_code] => 690091
+                    [country] => Россия
+                    [country_iso_code] => RU
+                    [federal_district] => Дальневосточный
+                    [region_fias_id] => 43909681-d6e1-432d-b61f-ddac393cb5da
+                    [region_kladr_id] => 2500000000000
+                    [region_iso_code] => RU-PRI
+                    [region_with_type] => Приморский край
+                    [region_type] => край
+                    [region_type_full] => край
+                    [region] => Приморский
+                    [area_fias_id] => 
+                    [area_kladr_id] => 
+                    [area_with_type] => 
+                    [area_type] => 
+                    [area_type_full] => 
+                    [area] => 
+                    [city_fias_id] => 7b6de6a5-86d0-4735-b11a-499081111af8
+                    [city_kladr_id] => 2500000100000
+                    [city_with_type] => г Владивосток
+                    [city_type] => г
+                    [city_type_full] => город
+                    [city] => Владивосток
+                    [city_area] => 
+                    [city_district_fias_id] => 
+                    [city_district_kladr_id] => 
+                    [city_district_with_type] => Ленинский р-н
+                    [city_district_type] => р-н
+                    [city_district_type_full] => район
+                    [city_district] => Ленинский
+                    [settlement_fias_id] => 
+                    [settlement_kladr_id] => 
+                    [settlement_with_type] => 
+                    [settlement_type] => 
+                    [settlement_type_full] => 
+                    [settlement] => 
+                    [street_fias_id] => d759fede-e5dc-4cf7-9d95-53a851778847
+                    [street_kladr_id] => 25000001000036600
+                    [street_with_type] => Океанский пр-кт
+                    [street_type] => пр-кт
+                    [street_type_full] => проспект
+                    [street] => Океанский
+                    [stead_fias_id] => 
+                    [stead_cadnum] => 
+                    [stead_type] => 
+                    [stead_type_full] => 
+                    [stead] => 
+                    [house_fias_id] => 21440ab7-280c-4401-aab6-32f6176ece60
+                    [house_kladr_id] => 2500000100003660131
+                    [house_cadnum] => 25:28:010002:57
+                    [house_flat_count] => 
+                    [house_type] => д
+                    [house_type_full] => дом
+                    [house] => 20
+                    [block_type] => 
+                    [block_type_full] => 
+                    [block] => 
+                    [entrance] => 
+                    [floor] => 
+                    [flat_fias_id] => 
+                    [flat_cadnum] => 
+                    [flat_type] => 
+                    [flat_type_full] => 
+                    [flat] => 
+                    [flat_area] => -1
+                    [square_meter_price] => -1
+                    [flat_price] => 
+                    [room_fias_id] => 
+                    [room_cadnum] => 
+                    [room_type] => 
+                    [room_type_full] => 
+                    [room] => 
+                    [postal_box] => 
+                    [fias_id] => 21440ab7-280c-4401-aab6-32f6176ece60
+                    [fias_code] => 25000001000000003660131
+                    [fias_level] => 8
+                    [fias_actuality_state] => 0
+                    [kladr_id] => 2500000100003660131
+                    [geoname_id] => 2013348
+                    [capital_marker] => 2
+                    [okato] => 05401364000
+                    [oktmo] => 05701000001
+                    [tax_office] => 2536
+                    [tax_office_legal] => 2536
+                    [timezone] => UTC+10
+                    [geo_lat] => 43.1193744
+                    [geo_lon] => 131.887472
+                    [beltway_hit] => 
+                    [beltway_distance] => 
+                    [metro] => 
+                    [divisions] => 
+                    [qc_geo] => 0
+                    [qc_complete] => 
+                    [qc_house] => 
+                    [history_values] => 
+                    [unparsed_parts] => 
+                    [source] => 690091, ПРИМОРСКИЙ КРАЙ, Г. ВЛАДИВОСТОК, ПР-КТ ОКЕАНСКИЙ, Д. 20
+                    [qc] => 0
+                )
+
+        )
+
+    [phones] => 
+    [emails] => 
+    [ogrn_date] => 1039651200000
+    [okved_type] => 2014
+    [employee_count] => 
+)
+
+
+111 - Array
+
+111 - АДМИНИСТРАЦИЯ ГОРОДА ВЛАДИВОСТОКА
+
+111 - АДМИНИСТРАЦИЯ ГОРОДА ВЛАДИВОСТОКА
+
+111 - АДМИНИСТРАЦИЯ ГОРОДА ВЛАДИВОСТОКА
+
+111 - АДМИНИСТРАЦИЯ ГОРОДА ВЛАДИВОСТОКА
+
+111 - АДМИНИСТРАЦИЯ ГОРОДА ВЛАДИВОСТОКА
+
+111 - АДМИНИСТРАЦИЯ ГОРОДА ВЛАДИВОСТОКА
+
+111 - АДМИНИСТРАЦИЯ ГОРОДА ВЛАДИВОСТОКА
+
