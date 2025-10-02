@@ -1,3 +1,14 @@
-
-id zakaz -: 84 сумма '340000|RUB'
-1) id zakaz -: 84 сумма '3400001|RUB'
+1) YFXFKJ -: 
+1) id zakaz -: 101 сумма '3200000|RUB'
+1) YFXFKJ -: 
+1) id zakaz -: 101 сумма '32000001|RUB'
+1) YFXFKJ -: 
+1) id zakaz -: 101 сумма '3200000|RUB'
+1) YFXFKJ -: 
+1) id zakaz -: 101 сумма '32000001|RUB'
+1) id zakaz -: 101 сумма '3200000|RUB'
+2) id zakaz -: 101 сумма '3200000|RUB'
+1) id zakaz -: 101 сумма '320000|RUB'
+2) id zakaz -: 101 сумма '320000|RUB'
+1) id zakaz -: 102 сумма '45600000|RUB'
+2) id zakaz -: 102 сумма '45600000|RUB'
