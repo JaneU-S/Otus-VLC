@@ -12,3 +12,588 @@
 2) id zakaz -: 101 сумма '320000|RUB'
 1) id zakaz -: 102 сумма '45600000|RUB'
 2) id zakaz -: 102 сумма '45600000|RUB'
+after -: array (
+  'NAME' => 'Изменено 02.10.2025 07:07:57',
+  'MODIFIED_BY' => '1',
+  'PROPERTY_VALUES' => 
+  array (
+    127 => 
+    array (
+      '103:127' => 
+      array (
+        'VALUE' => '125000|RUB',
+      ),
+    ),
+    128 => 
+    array (
+      '103:128' => 123.0,
+    ),
+    130 => '61',
+    132 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '42',
+      ),
+    ),
+    133 => 
+    array (
+      'VALUE' => '',
+    ),
+    139 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '',
+      ),
+    ),
+    129 => 
+    array (
+      '103:129' => 
+      array (
+        'VALUE' => 'компания не найдена по ИНН',
+        'DESCRIPTION' => NULL,
+      ),
+    ),
+  ),
+  'RIGHTS' => 
+  array (
+  ),
+  'WF' => 'N',
+  'SEARCHABLE_CONTENT' => 'ИЗМЕНЕНО 02.10.2025 07:07:57
+ADMIN ADMIN
+125000|RUB
+123
+РАЗРАБОТКА
+T1
+КОМПАНИЯ НЕ НАЙДЕНА ПО ИНН',
+  'IBLOCK_SECTION' => 
+  array (
+  ),
+  'ID' => 103,
+  'IBLOCK_ID' => '30',
+  'RESULT' => true,
+)
+IBLOCK DEAL OLD -: T | SUM152000
+1) id zakaz -: NULL сумма '125001|RUB'
+2) id zakaz -: NULL сумма '125001|RUB'
+1) id zakaz -: NULL сумма '12501|RUB'
+2) id zakaz -: NULL сумма '12501|RUB'
+after -: array (
+  'NAME' => 'Изменено 02.10.2025 07:08:31',
+  'MODIFIED_BY' => '1',
+  'PROPERTY_VALUES' => 
+  array (
+    127 => 
+    array (
+      '103:127' => 
+      array (
+        'VALUE' => '125000|RUB',
+      ),
+    ),
+    128 => 
+    array (
+      '103:128' => 123.0,
+    ),
+    130 => '61',
+    132 => 
+    array (
+      '103:132' => 
+      array (
+        'VALUE' => '42',
+      ),
+    ),
+    133 => 
+    array (
+      'VALUE' => '',
+    ),
+    139 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '',
+      ),
+    ),
+    129 => 
+    array (
+      '103:129' => 
+      array (
+        'VALUE' => 'компания не найдена по ИНН',
+        'DESCRIPTION' => NULL,
+      ),
+    ),
+  ),
+  'RIGHTS' => 
+  array (
+  ),
+  'WF' => 'N',
+  'SEARCHABLE_CONTENT' => 'ИЗМЕНЕНО 02.10.2025 07:08:31
+ADMIN ADMIN
+125000|RUB
+123
+РАЗРАБОТКА
+T
+КОМПАНИЯ НЕ НАЙДЕНА ПО ИНН',
+  'IBLOCK_SECTION' => 
+  array (
+  ),
+  'ID' => 103,
+  'IBLOCK_ID' => '30',
+  'RESULT' => true,
+)
+IBLOCK DEAL OLD -: T | SUM12501
+1) id zakaz -: NULL сумма '125000.00|RUB'
+2) id zakaz -: NULL сумма '125000.00|RUB'
+1) id zakaz -: NULL сумма '125000.00|RUB'
+2) id zakaz -: NULL сумма '125000.00|RUB'
+1) id zakaz -: NULL сумма '123|RUB'
+2) id zakaz -: NULL сумма '123|RUB'
+1) id zakaz -: 102 сумма '45600001|RUB'
+2) id zakaz -: 102 сумма '45600001|RUB'
+1) id zakaz -: NULL сумма '1234|RUB'
+2) id zakaz -: NULL сумма '1234|RUB'
+after -: array (
+  'NAME' => 'Изменено 02.10.2025 07:10:43',
+  'MODIFIED_BY' => '1',
+  'PROPERTY_VALUES' => 
+  array (
+    127 => 
+    array (
+      '104:127' => 
+      array (
+        'VALUE' => '123|RUB',
+      ),
+    ),
+    128 => 
+    array (
+      '104:128' => 112.0,
+    ),
+    130 => '61',
+    132 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '',
+      ),
+    ),
+    133 => 
+    array (
+      'VALUE' => '',
+    ),
+    139 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '',
+      ),
+    ),
+    129 => 
+    array (
+      '104:129' => 
+      array (
+        'VALUE' => 'компания не найдена по ИНН',
+        'DESCRIPTION' => NULL,
+      ),
+    ),
+  ),
+  'RIGHTS' => 
+  array (
+  ),
+  'WF' => 'N',
+  'SEARCHABLE_CONTENT' => 'ИЗМЕНЕНО 02.10.2025 07:10:43
+ADMIN ADMIN
+123|RUB
+112
+РАЗРАБОТКА
+КОМПАНИЯ НЕ НАЙДЕНА ПО ИНН',
+  'IBLOCK_SECTION' => 
+  array (
+  ),
+  'ID' => 104,
+  'IBLOCK_ID' => '30',
+  'RESULT' => true,
+)
+after -: array (
+  'NAME' => 'Изменено 02.10.2025 07:10:51',
+  'MODIFIED_BY' => '1',
+  'PROPERTY_VALUES' => 
+  array (
+    127 => 
+    array (
+      '104:127' => 
+      array (
+        'VALUE' => '123|RUB',
+      ),
+    ),
+    128 => 
+    array (
+      '104:128' => 112.0,
+    ),
+    130 => '61',
+    132 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '',
+      ),
+    ),
+    133 => 
+    array (
+      'VALUE' => '',
+    ),
+    139 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '',
+      ),
+    ),
+    129 => 
+    array (
+      '104:129' => 
+      array (
+        'VALUE' => 'компания не найдена по ИНН',
+        'DESCRIPTION' => NULL,
+      ),
+    ),
+  ),
+  'RIGHTS' => 
+  array (
+  ),
+  'WF' => 'N',
+  'SEARCHABLE_CONTENT' => 'ИЗМЕНЕНО 02.10.2025 07:10:51
+ADMIN ADMIN
+123|RUB
+112
+РАЗРАБОТКА
+КОМПАНИЯ НЕ НАЙДЕНА ПО ИНН',
+  'IBLOCK_SECTION' => 
+  array (
+  ),
+  'ID' => 104,
+  'IBLOCK_ID' => '30',
+  'RESULT' => true,
+)
+after -: array (
+  'NAME' => 'Изменено 02.10.2025 07:11:02',
+  'MODIFIED_BY' => '1',
+  'PROPERTY_VALUES' => 
+  array (
+    127 => 
+    array (
+      '104:127' => 
+      array (
+        'VALUE' => '123|RUB',
+      ),
+    ),
+    128 => 
+    array (
+      '104:128' => 112.0,
+    ),
+    130 => '61',
+    132 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '',
+      ),
+    ),
+    133 => 
+    array (
+      'VALUE' => '',
+    ),
+    139 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '',
+      ),
+    ),
+    129 => 
+    array (
+      '104:129' => 
+      array (
+        'VALUE' => 'компания не найдена по ИНН',
+        'DESCRIPTION' => NULL,
+      ),
+    ),
+  ),
+  'RIGHTS' => 
+  array (
+  ),
+  'WF' => 'N',
+  'SEARCHABLE_CONTENT' => 'ИЗМЕНЕНО 02.10.2025 07:11:02
+ADMIN ADMIN
+123|RUB
+112
+РАЗРАБОТКА
+КОМПАНИЯ НЕ НАЙДЕНА ПО ИНН',
+  'IBLOCK_SECTION' => 
+  array (
+  ),
+  'ID' => 104,
+  'IBLOCK_ID' => '30',
+  'RESULT' => true,
+)
+after -: array (
+  'NAME' => 'Изменено 02.10.2025 09:16:58',
+  'MODIFIED_BY' => '1',
+  'PROPERTY_VALUES' => 
+  array (
+    127 => 
+    array (
+      '104:127' => 
+      array (
+        'VALUE' => '123|RUB',
+      ),
+    ),
+    128 => 
+    array (
+      '104:128' => 112.0,
+    ),
+    130 => '61',
+    132 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '',
+      ),
+    ),
+    133 => 
+    array (
+      'VALUE' => '',
+    ),
+    139 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '',
+      ),
+    ),
+    129 => 
+    array (
+      '104:129' => 
+      array (
+        'VALUE' => 'компания не найдена по ИНН',
+        'DESCRIPTION' => NULL,
+      ),
+    ),
+  ),
+  'RIGHTS' => 
+  array (
+  ),
+  'WF' => 'N',
+  'SEARCHABLE_CONTENT' => 'ИЗМЕНЕНО 02.10.2025 09:16:58
+ADMIN ADMIN
+123|RUB
+112
+РАЗРАБОТКА
+КОМПАНИЯ НЕ НАЙДЕНА ПО ИНН',
+  'IBLOCK_SECTION' => 
+  array (
+  ),
+  'ID' => 104,
+  'IBLOCK_ID' => '30',
+  'RESULT' => true,
+)
+after -: array (
+  'NAME' => 'Изменено 02.10.2025 09:19:35',
+  'MODIFIED_BY' => '1',
+  'PROPERTY_VALUES' => 
+  array (
+    127 => 
+    array (
+      '104:127' => 
+      array (
+        'VALUE' => '123|RUB',
+      ),
+    ),
+    128 => 
+    array (
+      '104:128' => 112.0,
+    ),
+    130 => '61',
+    132 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '41',
+      ),
+    ),
+    133 => 
+    array (
+      'VALUE' => '',
+    ),
+    139 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '',
+      ),
+    ),
+    129 => 
+    array (
+      '104:129' => 
+      array (
+        'VALUE' => 'компания не найдена по ИНН',
+        'DESCRIPTION' => NULL,
+      ),
+    ),
+  ),
+  'RIGHTS' => 
+  array (
+  ),
+  'WF' => 'N',
+  'SEARCHABLE_CONTENT' => 'ИЗМЕНЕНО 02.10.2025 09:19:35
+ADMIN ADMIN
+123|RUB
+112
+РАЗРАБОТКА
+T
+КОМПАНИЯ НЕ НАЙДЕНА ПО ИНН',
+  'IBLOCK_SECTION' => 
+  array (
+  ),
+  'ID' => 104,
+  'IBLOCK_ID' => '30',
+  'RESULT' => true,
+)
+IBLOCK DEAL OLD -: T | SUM45600001
+1) id zakaz -: 109 сумма '200000|RUB'
+2) id zakaz -: 109 сумма '200000|RUB'
+after -: array (
+  'NAME' => 'Изменено 02.10.2025 17:44:17',
+  'MODIFIED_BY' => '1',
+  'PROPERTY_VALUES' => 
+  array (
+    127 => 
+    array (
+      '109:127' => 
+      array (
+        'VALUE' => '250000|RUB',
+      ),
+    ),
+    128 => 
+    array (
+      '109:128' => 159.0,
+    ),
+    130 => '62',
+    132 => 
+    array (
+      '109:132' => 
+      array (
+        'VALUE' => '44',
+      ),
+    ),
+    133 => 
+    array (
+      'VALUE' => '',
+    ),
+    139 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '',
+      ),
+    ),
+    129 => 
+    array (
+      '109:129' => 
+      array (
+        'VALUE' => 'компания не найдена по ИНН',
+        'DESCRIPTION' => NULL,
+      ),
+    ),
+  ),
+  'RIGHTS' => 
+  array (
+  ),
+  'WF' => 'N',
+  'SEARCHABLE_CONTENT' => 'ИЗМЕНЕНО 02.10.2025 17:44:17
+ADMIN ADMIN
+250000|RUB
+159
+ТЕХПОДДЕРЖКА
+ТЕХПОДДЕРЖКА
+КОМПАНИЯ НЕ НАЙДЕНА ПО ИНН',
+  'IBLOCK_SECTION' => 
+  array (
+  ),
+  'ID' => 109,
+  'IBLOCK_ID' => '30',
+  'RESULT' => true,
+)
+IBLOCK DEAL OLD -: Техподдержка | SUM200000
+1) id zakaz -: 110 сумма '123541.00|RUB'
+2) id zakaz -: 110 сумма '123541.00|RUB'
+1) id zakaz -: 110 сумма '123541.00|RUB'
+2) id zakaz -: 110 сумма '123541.00|RUB'
+1) id zakaz -: 110 сумма '123542|RUB'
+2) id zakaz -: 110 сумма '123542|RUB'
+after -: array (
+  'NAME' => 'Изменено 03.10.2025 15:59:15',
+  'MODIFIED_BY' => '1',
+  'PROPERTY_VALUES' => 
+  array (
+    127 => 
+    array (
+      '110:127' => 
+      array (
+        'VALUE' => '123543|RUB',
+      ),
+    ),
+    128 => 
+    array (
+      '110:128' => 123.0,
+    ),
+    130 => '61',
+    132 => 
+    array (
+      '110:132' => 
+      array (
+        'VALUE' => '45',
+      ),
+    ),
+    133 => 
+    array (
+      'VALUE' => '',
+    ),
+    139 => 
+    array (
+      'n0' => 
+      array (
+        'VALUE' => '',
+      ),
+    ),
+    129 => 
+    array (
+      '110:129' => 
+      array (
+        'VALUE' => 'компания не найдена по ИНН',
+        'DESCRIPTION' => NULL,
+      ),
+    ),
+  ),
+  'RIGHTS' => 
+  array (
+  ),
+  'WF' => 'N',
+  'SEARCHABLE_CONTENT' => 'ИЗМЕНЕНО 03.10.2025 15:59:15
+ADMIN ADMIN
+123543|RUB
+123
+РАЗРАБОТКА
+РАЗРАБОТКА T2
+КОМПАНИЯ НЕ НАЙДЕНА ПО ИНН',
+  'IBLOCK_SECTION' => 
+  array (
+  ),
+  'ID' => 110,
+  'IBLOCK_ID' => '30',
+  'RESULT' => true,
+)
+IBLOCK DEAL OLD -: Разработка T | SUM123542
+1) id zakaz -: 109 сумма '2500001|RUB'
+2) id zakaz -: 109 сумма '2500001|RUB'
+1) id zakaz -: 110 сумма '123543.00|RUB'
+2) id zakaz -: 110 сумма '123543.00|RUB'

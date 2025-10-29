@@ -1,6 +1,8 @@
 <?
 // автолоадер проекта
 include_once __DIR__ . '/../app/autoload.php';
+include_once __DIR__ . '/classes/BXHelper.php';
+
 
 // вывод данных 
 function pr($var, $type = false) {
@@ -25,3 +27,24 @@ $eventManager->addEventHandler("iblock", "OnAfterIBlockElementUpdate", ['Events\
 // обработчик событий CRM
 $eventManager->addEventHandler("crm", "OnAfterCrmDealUpdate", ['Events\CrmHandler', 'OnAfterDealUpdate']);
 //$eventManager->addEventHandler("crm", "OnBeforeCrmDealUpdate", ['Events\CrmHandler', 'OnBeforeDealUpdate']);
+
+// пользовательский тип для свойства инфоблока
+$eventManager->AddEventHandler(
+    'iblock',
+    'OnIBlockPropertyBuildList',
+    [
+        'UserTypes\IBLink', // класс обработчик пользовательского типа свойства 
+        'GetUserTypeDescription'
+    ]
+);
+
+
+// пользовательский тип для UF поля
+$eventManager->AddEventHandler(
+    'main',
+    'OnUserTypeBuildList',
+    [
+        'UserTypes\FormatTelegramLink', // класс обработчик пользовательского типа UF поля
+        'GetUserTypeDescription'
+    ]
+);
